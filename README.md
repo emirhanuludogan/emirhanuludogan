@@ -51,12 +51,8 @@ My work spans across building scalable data processing systems with PySpark, tra
   * Implemented a C++ memory fragmentation simulator featuring the First Fit allocation algorithm.
 
 ---
-
 ## 📊 GitHub & Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=emirhanuludogan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanuludogan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emirhanuludogan&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanuludogan&layout=compact&theme=tokyonight&hide_border=true)
