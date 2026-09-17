@@ -52,7 +52,4 @@ My work spans across building scalable data processing systems with PySpark, tra
 
 ---
 ## 📊 GitHub & Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emirhanuludogan&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanuludogan&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emirhanuludogan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
