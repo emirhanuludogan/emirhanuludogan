@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Emirhan Uludoğan (Uludogan) 👋</h1>
+<h1 align="center"> Emirhan Uludogan </h1>
 <h3 align="center">Computer Engineering Student | Data Engineering & Computer Vision Enthusiast</h3>
 
 <p align="center">
