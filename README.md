@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I am a Computer Engineering student at **Düzce Üniversitesi** (3rd Year), passionate about bridging academic concepts with real-world software engineering, big data pipelines, and computer vision workflows. 
+I am a Computer Engineering student  (3rd Year), passionate about bridging academic concepts with real-world software engineering, big data pipelines, and computer vision workflows. 
 
 My work spans across building scalable data processing systems with PySpark, training custom object detection models (YOLOv8) for sports analytics, and developing low-level system simulations. I love exploring modern AI technologies, optimizing data flows, and writing clean, maintainable code.
 
