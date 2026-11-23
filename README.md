@@ -41,14 +41,16 @@ My work spans across building scalable data processing systems with PySpark, tra
 
 ## 💻 Featured Projects
 
+* **[Video Jump Analysis](https://github.com/emirhanuludogan/video-jump-analysis)**
+  * Developed an experimental video-based jump analysis pipeline using **MediaPipe Pose** and person detectors including YOLO, RT-DETR, D-FINE, and DEIM to study hip displacement, flight time, and ground contact time.
+* **[CMJ Camera Comparison](https://github.com/emirhanuludogan/cmj-camera-comparison)**
+  * Investigated **CMJ measurements** from front and side video recordings, using MediaPipe hip tracking, parabolic scale estimation, and manual **Kinovea** references.
+* **[PitchVision-AI](https://github.com/emirhanuludogan/PitchVision-AI)**
+  * Collaborated on a football computer vision project covering frame extraction, player and ball pre-labeling, manual annotation review, and **YOLO ball detection** model development.
+* **[Object Tracking Demo](https://github.com/emirhanuludogan/Object-Tracking_Demo)**
+  * Built a football video analysis pipeline using **YOLOv11**, OpenCV field masking and perspective processing, and Pandas/Seaborn heatmap visualization.
 * **[Financial Data Platform](https://github.com/emirhanuludogan/financial-data-platform)**
   * Developed an end-to-end Spark ETL pipeline using **Medallion Architecture** to process financial data sourced from the TCMB EVDS API.
-* **[PitchVision-AI](https://github.com/emirhanuludogan/PitchVision-AI)**
-  * Built an integrated computer vision and auto-labeling ecosystem for halı saha football analytics, featuring custom-trained **YOLOv8** models and Weights & Biases experiment tracking.
-* **[PyFrameSnap](https://github.com/emirhanuludogan/PyFrameSnap)**
-  * Created a Python utility repository to automate downloading YouTube match videos and extracting frame samples for computer vision dataset creation.
-* **[Memory-Fragmentation-Simulator](https://github.com/emirhanuludogan/Memory-Fragmentation-Simulator)**
-  * Implemented a C++ memory fragmentation simulator featuring the First Fit allocation algorithm.
 
 ---
 ## 📊 GitHub & Stats
