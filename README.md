@@ -18,9 +18,14 @@ My work spans across building scalable data processing systems with PySpark, tra
 
 ## 🎯 Research & Technical Focus
 
-* **Data Engineering & Big Data:** PySpark, Apache Spark, ETL Pipelines, Medallion Architecture.
-* **Computer Vision & AI:** Custom YOLOv8 Model Training, OpenCV, DeepFace, Weights & Biases (WandB), Automated Dataset Generation.
-* **Systems & Software Development:** Python, C++, C#, SQL, Memory Management Simulations, Git/GitHub workflows.
+* **Object Detection & Model Experiments:** Custom YOLOv8 model training, YOLOv11 player detection, and experiments with RT-DETR v1/v2, D-FINE, and DEIM person detectors.
+* **Pose Estimation & Motion Analysis:** MediaPipe Pose, body landmark tracking, hip displacement, segment-based center-of-mass estimation, and experimental jump analysis using flight and ground contact times.
+* **Sports Computer Vision:** Football player and ball detection, movement heatmaps, CMJ video analysis, and comparison of video-based measurements with manual Kinovea references.
+* **Video & Image Processing:** OpenCV, frame extraction, region-of-interest processing, field masking, perspective transformations, and visual overlays for inspecting detection and pose results.
+* **Dataset Preparation & Annotation:** Automated frame sampling, player and ball pre-labeling, YOLO-format annotations, manual label review, and training/validation dataset preparation.
+* **Model Evaluation & Experiment Tracking:** Precision, recall, mAP, confusion matrices, detection coverage, inference speed, and Weights & Biases (WandB) experiment tracking.
+* **Data Engineering & Big Data:** PySpark, Apache Spark, ETL pipelines, Medallion Architecture, and processing analysis outputs with Pandas.
+* **Systems & Software Development:** Python, C++, C#, SQL, memory management simulations, and Git/GitHub workflows.
 
 ---
 
